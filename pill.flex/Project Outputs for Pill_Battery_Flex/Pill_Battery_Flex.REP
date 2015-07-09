@@ -1,0 +1,114 @@
+*************************************************************
+FileName = Pill_Battery_Flex.GBR
+AutoAperture = True
+*************************************************************
+Generating : Component Side
+      File : Pill_Battery_Flex.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Side
+      File : Pill_Battery_Flex.GBL
+
+    Adding Layer      : Bottom Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Pill_Battery_Flex.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Pill_Battery_Flex.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Board outline
+      File : Pill_Battery_Flex.GM13
+
+    Adding Layer      : Board outline
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Pill_Battery_Flex.GD1
+
+    Adding Drill Pair : Component Side-Bottom Side
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Pill_Battery_Flex.GG1
+
+    Adding Drill Pair : Component Side-Bottom Side
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D17
+*************************************************************
+
