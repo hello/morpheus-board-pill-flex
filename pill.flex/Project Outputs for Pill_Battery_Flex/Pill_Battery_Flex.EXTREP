@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Pill_Battery_Flex.GBR   7/8/2015  7:33:48 PM
+Gerber File Extension Report For: Pill_Battery_Flex.GBR   8/24/2015  12:41:27 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,9 +7,8 @@ Gerber File Extension Report For: Pill_Battery_Flex.GBR   7/8/2015  7:33:48 PM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Component Side                          
-.GBL                Bottom Side                             
+.GTO                Top Overlay                             
 .GTS                Top Solder                              
-.GBS                Bottom Solder                           
 .GM13               Board outline                           
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             

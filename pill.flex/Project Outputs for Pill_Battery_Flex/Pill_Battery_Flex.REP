@@ -1,114 +1,50 @@
 *************************************************************
-FileName = Pill_Battery_Flex.GBR
-AutoAperture = True
+FileName = Pill_Battery_Flex.PcbDoc
+ODB++ directory structure
 *************************************************************
-Generating : Component Side
-      File : Pill_Battery_Flex.GTL
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\matrix\matrix
 
-    Adding Layer      : Component Side
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\profile
 
-    Adding Layer      : Multi-Layer
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\stephdr
 
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\attrlist
 
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\topoverlay\features
 
-*************************************************************
-Generating : Bottom Side
-      File : Pill_Battery_Flex.GBL
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\topoverlay\attrlist
 
-    Adding Layer      : Bottom Side
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\toppaste\features
 
-    Adding Layer      : Multi-Layer
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\toppaste\attrlist
 
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\topsolder\features
 
-Used DCodes :
-    D11
-    D12
-    D13
-*************************************************************
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\topsolder\attrlist
 
-*************************************************************
-Generating : Top Solder
-      File : Pill_Battery_Flex.GTS
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\top\features
 
-    Adding Layer      : Top Solder
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\top\attrlist
 
-    Adding Layer      : Component Side
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\bottom\features
 
-    Adding Layer      : Multi-Layer
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\bottom\attrlist
 
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\drill\features
 
-Used DCodes :
-    D14
-    D15
-    D16
-*************************************************************
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\drill\attrlist
 
-*************************************************************
-Generating : Bottom Solder
-      File : Pill_Battery_Flex.GBS
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\steps\pcb\layers\drill\tools
 
-    Adding Layer      : Bottom Solder
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\symbols\oval39.3701x49.2126_80\features
 
-    Adding Layer      : Bottom Side
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\symbols\oval39.3701x49.2126_358\features
 
-    Adding Layer      : Multi-Layer
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\symbols\oval39.3701x49.2126_280\features
 
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\symbols\oval44.8819x54.7244_80\features
 
-Used DCodes :
-    D14
-    D15
-    D16
-*************************************************************
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\symbols\oval44.8819x54.7244_358\features
 
-*************************************************************
-Generating : Board outline
-      File : Pill_Battery_Flex.GM13
-
-    Adding Layer      : Board outline
-
-
-Used DCodes :
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : Pill_Battery_Flex.GD1
-
-    Adding Drill Pair : Component Side-Bottom Side
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D10
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : Pill_Battery_Flex.GG1
-
-    Adding Drill Pair : Component Side-Bottom Side
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D17
-*************************************************************
+Generated File : \\psf\Home\Dropbox (Hello)\Product\Morpheus\Morpheus EE MP RevB\pill.flex\Project Outputs for Pill_Battery_Flex\odb\symbols\oval44.8819x54.7244_280\features
 

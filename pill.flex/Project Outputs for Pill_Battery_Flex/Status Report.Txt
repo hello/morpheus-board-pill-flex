@@ -1,12 +1,27 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Pill_Battery_Flex.PrjPCB]
-   Generated File[Pill_Battery_Flex.TXT]
-   Generated File[Pill_Battery_Flex.LDP]
-   Generated File[Pill_Battery_Flex.DRR]
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of Project [Pill_Battery_Flex.PrjPCB]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[netlist]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[Pill_Battery_Flex.REP]
 
 
-Files Generated   : 3
+Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 7:34:07 PM On 7/8/2015
+Finished Output Generation At 12:43:30 PM On 8/24/2015
