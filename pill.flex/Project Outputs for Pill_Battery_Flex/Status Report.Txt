@@ -1,27 +1,24 @@
-Output: ODB++ Files
-Type  : ODB
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [Pill_Battery_Flex.PrjPCB]
-   Generated File[matrix]
-   Generated File[profile]
-   Generated File[stephdr]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[netlist]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
+   Generated File[Pill_Battery_Flex.GTL]
+   Generated File[Pill_Battery_Flex.GBL]
+   Generated File[Pill_Battery_Flex.GTO]
+   Generated File[Pill_Battery_Flex.GTP]
+   Generated File[Pill_Battery_Flex.GTS]
+   Generated File[Pill_Battery_Flex.GBS]
+   Generated File[Pill_Battery_Flex.GBP]
+   Generated File[Pill_Battery_Flex.GBO]
+   Generated File[Pill_Battery_Flex.GKO]
+   Generated File[Pill_Battery_Flex.GM13]
+   Generated File[Pill_Battery_Flex.GD1]
+   Generated File[Pill_Battery_Flex.GG1]
+   Generated File[Pill_Battery_Flex.RUL]
+   Generated File[Pill_Battery_Flex.EXTREP]
    Generated File[Pill_Battery_Flex.REP]
 
 
-Files Generated   : 18
+Files Generated   : 15
 Documents Printed : 0
 
-Finished Output Generation At 5:11:05 PM On 8/31/2015
+Finished Output Generation At 11:29:05 AM On 12/9/2015
